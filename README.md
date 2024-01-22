@@ -3,6 +3,8 @@
 ## Introduction
 
 Welcome to the repository for the Adafruit SHT31 sensor project. This sensor is specifically used for monitoring soil temperature and humidity, making it an invaluable tool for gardening, agriculture, and environmental monitoring.
+![image](https://github.com/OpuntiaSensorHub/Adafruit_SHT31/assets/31825973/8b4f8fbc-b230-404b-9c57-f6d026f5eae6)
+
 
 ## Features
 
